@@ -1,0 +1,14 @@
+C:\Users\mark\Documents\revature\BookReview\bin\Debug\netcoreapp2.2\BookReview.deps.json
+C:\Users\mark\Documents\revature\BookReview\bin\Debug\netcoreapp2.2\BookReview.runtimeconfig.json
+C:\Users\mark\Documents\revature\BookReview\bin\Debug\netcoreapp2.2\BookReview.runtimeconfig.dev.json
+C:\Users\mark\Documents\revature\BookReview\bin\Debug\netcoreapp2.2\BookReview.dll
+C:\Users\mark\Documents\revature\BookReview\bin\Debug\netcoreapp2.2\BookReview.pdb
+C:\Users\mark\Documents\revature\BookReview\obj\Debug\netcoreapp2.2\BookReview.csprojAssemblyReference.cache
+C:\Users\mark\Documents\revature\BookReview\obj\Debug\netcoreapp2.2\BookReview.csproj.CoreCompileInputs.cache
+C:\Users\mark\Documents\revature\BookReview\obj\Debug\netcoreapp2.2\BookReview.RazorAssemblyInfo.cache
+C:\Users\mark\Documents\revature\BookReview\obj\Debug\netcoreapp2.2\BookReview.RazorAssemblyInfo.cs
+C:\Users\mark\Documents\revature\BookReview\obj\Debug\netcoreapp2.2\BookReview.AssemblyInfoInputs.cache
+C:\Users\mark\Documents\revature\BookReview\obj\Debug\netcoreapp2.2\BookReview.AssemblyInfo.cs
+C:\Users\mark\Documents\revature\BookReview\obj\Debug\netcoreapp2.2\BookReview.RazorTargetAssemblyInfo.cache
+C:\Users\mark\Documents\revature\BookReview\obj\Debug\netcoreapp2.2\BookReview.dll
+C:\Users\mark\Documents\revature\BookReview\obj\Debug\netcoreapp2.2\BookReview.pdb
